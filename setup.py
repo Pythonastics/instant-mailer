@@ -15,7 +15,7 @@ setup(
 	long_description=rme,
 	keywords='gmail email wrapper',
 	classifiers=[
-		'Development Status :: 5 - Production/Stable',
+		 'Development Status :: 5 - Production/Stable',
          'License :: OSI Approved :: MIT License',
          'Intended Audience :: Developers',
          'Natural Language :: English',
