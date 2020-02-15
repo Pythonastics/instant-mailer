@@ -12,5 +12,5 @@ Version Info
 Mail
 ----
 
-.. autoclass:: instant-mailer
+.. automodule:: instant-mailer
     :members:
