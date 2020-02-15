@@ -6,7 +6,7 @@ with open("README.md") as f:
 	rme = f.read()
 	
 setup(
-	name="instant-mailer",
+	name="instantmailer",
 	author="mischievousdev",
 	author_email="miscdev.py@gmail.com",
 	version="1.0.0",
