@@ -13,4 +13,4 @@ Mail
 ----
 
 .. automodule:: instant-mailer
-    :members:
+   :members:
