@@ -12,5 +12,11 @@ Instant mailer is a API Wrapper for gmail to send instant mails using Python
 Documentation Contents
 ---------------------------------------
 
-.. toctree:
+.. toctree::
+   :maxdepth: 2
+   
+   api
+   
+* :ref:`genindex`
+* :ref:`search`
 	
