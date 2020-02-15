@@ -1,5 +1,5 @@
 Welcome to instant-mailer's documentation
-==================================
+=========================================
 
 Instant mailer is a API Wrapper for gmail to send instant mails using Python
 
