@@ -18,9 +18,9 @@ Python Requires <= 3.6
 ## Getting Started
 
 ```py
-import instant-mailer
+import instantmailer
 
-mail = instant-mailer.Mail("example@example.com", "12345678") # Replace with your email and password
+mail = instantmailer.Mail("example@example.com", "12345678") # Replace with your email and password
 ```
 
 **Attributes**
