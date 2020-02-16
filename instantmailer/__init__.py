@@ -1,3 +1,3 @@
-from .main import Main
+from .mail import Mail
 
 __version__ = "1.0.0"

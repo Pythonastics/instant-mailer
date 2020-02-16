@@ -2,18 +2,18 @@ import setuptools
 
 from setuptools import setup
 
-with open("README.md") as f:
-	rme = f.read()
+with open("README.md", "r") as fh:
+	lg = fh.read()
 	
 setup(
 	name="instantmailer",
 	author="mischievousdev",
 	author_email="miscdev.py@gmail.com",
-	version="1.0.0",
-	url="https://github.com/Pythonastics/pymail/tree/master",
+	version="1.0.3",
+	url="https://github.com/Pythonastics/instant-mailer",
+	long_description=lg,
+	long_description_content_type="text/markdown",
 	packages=setuptools.find_packages(),
 	license="MIT",
-	description="An API Wrapper of gmail to send instant mails using python",
-	long_description=rme,
 	keywords='gmail email wrapper'
 )

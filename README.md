@@ -1,6 +1,6 @@
 # instant-mailer
 ```sh
-pip install instant-mailer
+pip install instantmailer
 ```
 
 A Python module that allows you to send instant mails using Python.
